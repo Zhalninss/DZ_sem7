@@ -1,0 +1,15 @@
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.csproj.AssemblyReference.cache
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.AssemblyInfoInputs.cache
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.AssemblyInfo.cs
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.csproj.CoreCompileInputs.cache
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\bin\Debug\net6.0\DZ_sem7.exe
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\bin\Debug\net6.0\DZ_sem7.deps.json
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\bin\Debug\net6.0\DZ_sem7.runtimeconfig.json
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\bin\Debug\net6.0\DZ_sem7.dll
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\bin\Debug\net6.0\DZ_sem7.pdb
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.dll
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\refint\DZ_sem7.dll
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.pdb
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\DZ_sem7.genruntimeconfig.cache
+C:\education\C##\C#NEWSEM\DZ\DZ_sem7\obj\Debug\net6.0\ref\DZ_sem7.dll
